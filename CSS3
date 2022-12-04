@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <link rel="stylesheet" type="text/css" href="CSS/Style.css">
+    <meta charset="utf-8">
+    <title>Negócios Online</title>
+ </head>
+
+<body>
+ 
+    <header>
+        <H1>Empreendendo e alavancando negócios</H1>
+        <h3>MENU</h3>
+          <nav>
+              <Ul>
+                  <li><a href="#serviços">serviços</a></li>
+                  <li><a href="#produtos">produtos </a></li>
+                  <li><a href="#cliente">cliente</a></li>
+                  <li><a href="#produtor">produtor</a></li>
+                  <li><a href="#empreendedor">empreendedor</a></li>
+                  <li><a href="#contato">Contato</a></li>
+                  <li><a href="#parceiros">Parceiros</li></a>
+              </Ul>
+          </nav>
+      
+    </header>
+
+    <SECtion id="serviços">
+        
+        <h2>Serviços</h2>
+        
+        <p>oferecemos os melhores serviços</p>  
+        <p>qualquer duvida contate o suporte</p>
+        <div>
+            <img src="img/serviços.jfif" width="300px" class="imgPadrao" >
+        </div>
+       
+    </SECtion>
+
+    <section id="produtos">
+        
+        <h2>produtos</h2>  
+        
+        <p>Oferecemos de longe os melhores produtos do mercado podendo estar em suas mãos nem um período de 7 dias uteis</p>
+        
+        <div>
+            <img src="img/produtos.jfif" width="300px">
+        </div>
+
+    </section>
+
+    <section id="cliente">
+        <h2>Clientes</h2>
+        <p>Nossos clientes tem a melhor experiência e de mais qualidade do mercado digital</p>
+        <div>
+            <img src="img/clientes.jfif">
+        </div>
+    </section>
+
+    <section id="produtor">
+        <h2>Produtor</h2>
+        <p>Nesta plataforma o produtor conta com uma ampla variedade de ferramentas para alavancar os seus negocios</p>
+        <div>
+            <img src="img/Produtor.jfif">
+        </div>
+    </section>
+
+
+    <section id="empreendedor">
+        <h2>Empreendedor</h2>  
+        <p>Na empreendendo e alavancando negocios, o empreendedortem a opção de variar e expandir seus negocios vizando um potencial bruto e liquido de 10% a 30%  maior do que nos últimos anos</p>
+    <div>
+        <img src="img/empreendedor.jfif">
+    </div>
+    </section>
+
+    <section id="contato">
+        <h2>Contato</h2>
+        <p>entre em contato com nossa equipe</p>
+        <div>
+            <a href="mailto:lucas.lukas3245@gmail.com"><img src="img/e-mail.jfif" width="300px"></a>
+        </div>
+
+    </section>
+    
+    <section id="parceiros">
+        <h2>Parceiros</h2>
+        <P>Nossos parceiros tambem oferecem otimas oportunidades para aprimora e desenvolver seus conhecimentos</P>
+       <a href="https://www.ev.org.br/" target="_blank"> <img src="img/parceiros.jfif" width="150px"></a>
+    </section>
+    <footer>
+
+
+    </footer>
+
+
+</body>
+
+</html>
